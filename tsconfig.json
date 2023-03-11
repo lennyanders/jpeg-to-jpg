@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "outDir": "dist",
+    "noImplicitAny": true,
+    "skipLibCheck": false,
+    "types": ["chrome-types"]
+  }
+}

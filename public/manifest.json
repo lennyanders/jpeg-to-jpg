@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "name": "jpeg-to-jpg",
+  "description": "An extension that changes the default download name extension from jpeg to jpg.",
+  "permissions": ["downloads"],
+  "background": { "service_worker": "/background.js", "type": "module" },
+  "manifest_version": 3
+}
